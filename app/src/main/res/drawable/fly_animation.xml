@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/fly_01" android:duration="50"/>
+    <item android:drawable="@drawable/fly_02" android:duration="50"/>
+    <item android:drawable="@drawable/fly_03" android:duration="50"/>
+    <item android:drawable="@drawable/fly_04" android:duration="50"/>
+    <item android:drawable="@drawable/fly_05" android:duration="50"/>
+    <item android:drawable="@drawable/fly_06" android:duration="50"/>
+    <item android:drawable="@drawable/fly_07" android:duration="50"/>
+    <item android:drawable="@drawable/fly_08" android:duration="50"/>
+</animation-list>
